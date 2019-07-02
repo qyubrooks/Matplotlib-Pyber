@@ -22,7 +22,7 @@ In addition, I created the following three pie charts:
 ## Technologies
 
 * Pandas, Jupyter
-* Matplot
+* Matplotlib
 
 ## Three Observable Trends Based on The Data
 
