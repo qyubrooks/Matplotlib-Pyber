@@ -257,4 +257,5 @@ plt.savefig("./Total Drivers by City Type.png")
 # Show Figure
 plt.show()
 ```
+
 ![bubble](README_images/total_drivers_by_city_type.png)
