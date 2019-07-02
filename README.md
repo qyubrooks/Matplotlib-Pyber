@@ -16,13 +16,7 @@ My objective is to build a [Bubble Plot](https://en.wikipedia.org/wiki/Bubble_ch
 In addition, I will be expected to produce the following three pie charts:
 
 * % of Total Fares by City Type
-
-![fares](Total Drivers by City Type.png)
-
 * % of Total Rides by City Type
-
-![rides](Total Rides by City Type.png)
-
 * % of Total Drivers by City Type
 
-![drivers](Total Fares by City Type.png)
+
